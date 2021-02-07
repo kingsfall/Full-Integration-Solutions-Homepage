@@ -1,1 +1,4 @@
 node_modules/
+certs/
+.well-known/
+D901B1901CB9CE4F5265C7A54AAB35AC.txt
